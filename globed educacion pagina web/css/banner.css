@@ -1,0 +1,66 @@
+#banner {
+    margin-top: 0px;
+    position: relative;
+}
+
+#banner img {
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+}
+
+#banner a {
+    position: relative;
+    display: block;
+    width: 100px;
+    color: #fff;
+    padding: 8px;
+    background:rgb(130, 130, 133);
+    font-size: 13px;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+    border: 1px solid white;
+
+}
+
+#banner a:hover {
+    background: rgb(118,171,69);
+}
+
+@media (min-width:480px) {
+    
+    #banner a {
+        font-size: 20px;
+         width: 150px;
+        
+    }
+    
+    #banner {
+    margin-top: 70px;
+}
+    #banner img {
+        height: auto;
+        
+    }
+    
+}
+
+@media (min-width:780px) {
+    
+   
+    #banner a {
+        font-size: 30px;
+         width: 200px;
+        border-radius: 0px;
+        
+        
+    }
+    
+    #banner img {
+        height: auto;
+    
+    }
+}
+

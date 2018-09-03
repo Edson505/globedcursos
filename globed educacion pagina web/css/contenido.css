@@ -1,0 +1,77 @@
+#bienvenidos {            
+    background: rgba(0,0,0,0.10);
+    margin-top: 0px;
+    width: 100%;
+}
+
+
+#bienvenidos h1 {
+    margin-top: 25px;
+    text-align: center;
+    padding: 30px;
+    color: rgba(0,0,0,0.6);
+    font-weight: 800;
+    
+}
+
+#bienvenidos p {
+    text-align: center;
+    font-size: 13px;
+    text-align: center;
+    padding: 30px;
+    margin-top: -25px;
+    
+}
+
+
+@media (min-width:780px) {
+    
+    #bienvenidos p {
+        text-align: center;
+        font-size: 20px;
+        font-weight: 100;
+    
+    }
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
